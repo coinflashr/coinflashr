@@ -2,7 +2,7 @@ Coin Flashr is a software application that lets users flash multiple major crypt
 
 DISCLAIMER: Coin Flashr is not responsible for any damages or loss of funds caused by the use of this software!
 
-Get Coin Flasher here: https://www.coinflashr.com or contact us via:
+Get Coin Flashr here: https://www.coinflashr.com or contact us via:
 
 Telegram: https://t.me/coinflashr
 
