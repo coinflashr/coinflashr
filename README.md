@@ -8,6 +8,5 @@ Telegram: https://t.me/coinflasher
 
 Email: mail@coinflashr.com
 
-
-![Screenshot_20240103-020329 1](https://github.com/coinflashr/coinflashr/assets/154980782/8a8dd910-1c43-46be-8015-a0aabe4bb3dc)
-![Screenshot_20240103-020341 1](https://github.com/coinflashr/coinflashr/assets/154980782/11928ea3-6e9f-450a-af40-c7468f526e6f)
+![Screenshot_20240103-020329](https://github.com/coinflashr/coinflashr/assets/154980782/3de55744-7e2f-4295-82e7-6806429e6b7e)
+![Screenshot_20240103-020341](https://github.com/coinflashr/coinflashr/assets/154980782/381af87f-ae12-46ca-baa9-b0a5c57f1760)
